@@ -1,0 +1,1 @@
+export const productApi = "https://res.cloudinary.com/dwdy4lewd/raw/upload/v1669105740/React/data_x2v1u3.json";
